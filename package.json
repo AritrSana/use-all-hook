@@ -1,0 +1,17 @@
+{
+  "name": "use-all-hook",
+  "version": "0.0.3",
+  "description": "",
+  "main": "useFetch.js",
+  "repository": "https://github.com/AritrSana/use-all-hook",
+  "homepage": "https://github.com/AritrSana/use-all-hook",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aritro",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^17.0.38",
+    "react": "^17.0.2"
+  }
+}

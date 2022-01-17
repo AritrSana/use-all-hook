@@ -16,14 +16,14 @@ yarn add use-all-hook
 
 ## Require them
 
-```javascript
+```js
 import AllHooks from "use-all-hook";
 ```
 
 ## or
 
-```javascript
-import { useAsync, useFetch } from "use-all-hook";
+```js
+import { useAsync, useFetch, useScript, useToggle } from "use-all-hook";
 ```
 
 ## Enjoy the beauty of the react and react hooks

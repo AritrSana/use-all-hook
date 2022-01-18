@@ -10,4 +10,4 @@ function useToggle(defaultValue) {
     }
     return [value, toggleValue];
 }
-exports["default"] = useToggle;
+exports = useToggle;

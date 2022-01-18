@@ -23,7 +23,7 @@ import AllHooks from "use-all-hook";
 ## or
 
 ```js
-import { useAsync, useFetch, useScript, useToggle } from "use-all-hook";
+import { useAsync, useFetch, useScript, useToggle, useArray } from "use-all-hook";
 ```
 
 ## Enjoy the beauty of the react and react hooks

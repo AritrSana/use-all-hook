@@ -1,5 +1,6 @@
 "use strict";
 exports.__esModule = true;
+exports.useToggle = void 0;
 var react_1 = require("react");
 function useToggle(defaultValue) {
     var _a = (0, react_1.useState)(defaultValue), value = _a[0], setValue = _a[1];
@@ -10,4 +11,4 @@ function useToggle(defaultValue) {
     }
     return [value, toggleValue];
 }
-exports = useToggle;
+exports.useToggle = useToggle;

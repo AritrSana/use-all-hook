@@ -31,7 +31,8 @@ import {
     useArray, 
     useEventListener, 
     useSize,
-    useTimeout
+    useTimeout,
+    useDeepCompareEffect
 } from "use-all-hook";
 ```
 

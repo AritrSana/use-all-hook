@@ -1,10 +1,11 @@
 {
   "name": "use-all-hook",
-  "version": "0.0.5",
-  "description": "",
+  "version": "0.0.8",
+  "description": "\"use-all-hook\" is a react hooks package for a lot of hooks in the future.",
   "main": "useFetch.js",
   "repository": "https://github.com/AritrSana/use-all-hook",
   "homepage": "https://github.com/AritrSana/use-all-hook",
+  "keywords": ["u-a-h", "use-all-hook", "useAllHook", "use-all-hooks","useAllHooks", "React-hooks", "reactHooks"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

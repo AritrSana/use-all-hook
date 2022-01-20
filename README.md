@@ -22,8 +22,28 @@ import AllHooks from "use-all-hook";
 
 ## or
 
-```js
-import { useAsync, useFetch, useScript, useToggle, useArray } from "use-all-hook";
+```jsx
+import { 
+    useAsync,
+    useFetch, 
+    useScript, 
+    useToggle, 
+    useArray, 
+    useEventListener, 
+    useSize,
+    useTimeout
+} from "use-all-hook";
+```
+
+## or 
+
+###### The same way but the hooks you need.
+
+```jsx
+import {
+    useAsync,
+    useFetch,
+} from 'use-all-hook'
 ```
 
 ## Enjoy the beauty of the react and react hooks
